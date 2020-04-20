@@ -31,7 +31,7 @@ void setup(void)
   display.setTextSize(1);
   display.setTextColor(WHITE);
   display.setCursor(20,20);
-  display.println("Hello, Arducam!");
+  display.println("Hello, UCTRONICS!");
   display.display();
 
 
